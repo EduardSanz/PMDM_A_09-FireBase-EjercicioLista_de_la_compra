@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "463327168890",
+    "firebase_url": "https://pmdm-a-09-firebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pmdm-a-09-firebase",
+    "storage_bucket": "pmdm-a-09-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463327168890:android:2e2355abda3f8693596ec3",
+        "android_client_info": {
+          "package_name": "com.cieep.a09_firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463327168890-d55tpunq6bo0n8sf000rrh45id6cju4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCcfdFNerXL6skDSeVwUUFqEigZSEtkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463327168890-d55tpunq6bo0n8sf000rrh45id6cju4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463327168890:android:46873363915c7004596ec3",
+        "android_client_info": {
+          "package_name": "com.cieep.pmdm_a_09_firebase_ejerciciolista_de_la_compra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463327168890-d55tpunq6bo0n8sf000rrh45id6cju4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCcfdFNerXL6skDSeVwUUFqEigZSEtkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463327168890-d55tpunq6bo0n8sf000rrh45id6cju4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463327168890:android:3fcd6a5cb436af10596ec3",
+        "android_client_info": {
+          "package_name": "com.cieep.pmdm_c_09_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463327168890-d55tpunq6bo0n8sf000rrh45id6cju4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCcfdFNerXL6skDSeVwUUFqEigZSEtkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463327168890-d55tpunq6bo0n8sf000rrh45id6cju4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
